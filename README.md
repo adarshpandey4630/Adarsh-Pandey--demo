@@ -1,3 +1,3 @@
 # Adarsh-Pandey--demo
-This is my third git repository.
+This is my second git repository.
 Author -Adarsh Pandey
